@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Pipenv files
+Pipfile.lock
+Pipfile
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test results
+*.coverage
+*.cover
+*.log
+nosetests.xml
+coverage.xml
+*.hypothesis/
+*.pytest_cache/
+*.mypy_cache/
+__pypackages__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache
+.cache/
+pytest_cache/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Mac OS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Other files
+*.bak
+*.tmp
