@@ -1,8 +1,8 @@
 
 # Playwright Extension
 
-A simple Python package designed to enhance your web automation experience with Playwright. 
-This extension integrates seamlessly with Playwright to provide additional functionality, including the incorporation of playwright_stealth for improved bot detection evasion and robust proxy support for secure and anonymous browsing.
+A simple Python package designed to enhance your web automation experience with [Playwright](https://playwright.dev/python/). 
+This extension integrates seamlessly with Playwright to provide additional functionality, including the incorporation of [playwright_stealth](https://github.com/AtuboDad/playwright_stealth) for improved bot detection evasion and robust proxy support for secure and anonymous browsing.
 
 Key Features:
 - Enhanced Bot Detection Evasion: Leveraging playwright_stealth, this package helps mimic real user behavior, reducing the risk of detection by sophisticated anti-bot systems.
